@@ -1025,5 +1025,22 @@
     "SHA256": "f2e669c98e93233a7bea5bf2a7d0053a4b2bcb2983efa22ff47e8088068d0cc3",
     "changelog": [],
     "changelogs": {}
+  },
+  {
+    "Package": "qqantirecall.x",
+    "Name": "NTQQ_AntiRecall",
+    "Version": "1.6.2",
+    "Architecture": "iphoneos-arm64e",
+    "Description": "模块入口位于QQ内设置: NTQQ_AntiRecall",
+    "Maintainer": "𝙓",
+    "Author": "𝙓",
+    "Section": "Tweaks",
+    "Depends": "mobilesubstrate (>= 0.9.5000)",
+    "Installed-Size": "1148",
+    "Filename": "debs/qqantirecall.x_1.6.2_iphoneos-arm64e (1).deb",
+    "Size": "515824",
+    "SHA256": "c533f840ec61f3d11be3b705c8771987da565c4c4813199e11b8e17201000866",
+    "changelog": [],
+    "changelogs": {}
   }
 ]
