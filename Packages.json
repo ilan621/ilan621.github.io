@@ -299,6 +299,23 @@
   {
     "Package": "com.iosdump.appdata",
     "Name": "AppData",
+    "Version": "2.7.5",
+    "Architecture": "iphoneos-arm64e",
+    "Description": "在主屏幕查看应用数据与管理应用",
+    "Maintainer": "iosdump",
+    "Author": "iosdump",
+    "Section": "Tweaks",
+    "Depends": "firmware (>= 11.0), mobilesubstrate, preferenceloader",
+    "Conflicts": "com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata",
+    "Filename": "debs/com.iosdump.appdata_2.7.5_iphoneos-arm64e.deb",
+    "Size": "3950972",
+    "SHA256": "422c963b9ed8535459b0b3c49b44a9e0708e6e3eb0007e76c361ef79364c6b0a",
+    "changelog": [],
+    "changelogs": {}
+  },
+  {
+    "Package": "com.iosdump.appdata",
+    "Name": "AppData",
     "Version": "2.7.3",
     "Architecture": "iphoneos-arm64e",
     "Description": "在主屏幕查看应用数据与管理应用",
